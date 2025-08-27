@@ -15,7 +15,7 @@
 
 ## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
  
- <a href="[https://discord.com/users/1071500785545916608" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1071500785545916608.png](https://discord.c99.nl/widget/theme-2/1071500785545916608.png)"/>
+ <a href="[https://discord.com/users/1071500785545916608" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/1071500785545916608.png"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshitTiwari-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
