@@ -10,11 +10,11 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=java,cpp,py,js,ts,php,rust,solidity&theme=dark)](https://skillicons.dev)
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,bootstrap,redux,tailwind,figma,laravel&theme=dark)]
+[![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,bootstrap,redux,tailwind,figma,laravel&theme=dark)](https://skillicons.dev)
 ### Backend Development
-[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,vercel&theme=dark)]
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,vercel&theme=dark)](https://skillicons.dev)
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,debian,gitlab,bash&theme=dark)]
+[![Tools](https://skillicons.dev/icons?i=git,github,debian,gitlab,bash&theme=dark)](https://skillicons.dev)
 
 
 
@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitTiwari-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## My Discord Status
+## [(https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) My Discord Status 
  
  <a href="[https://discord.com/users/1071500785545916608" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/1071500785545916608.png"/>
 
