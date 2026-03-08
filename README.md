@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitTiwari-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-##[![Tools](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) My Discord Status 
+## [![Tools](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) My Discord Status 
  
  <a href="[https://discord.com/users/1071500785545916608" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/1071500785545916608.png"/>
 
